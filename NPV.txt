@@ -1,7 +1,6 @@
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:443?encryption=none&security=tls&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&serviceName=xyz&packetEncoding=xudp#🇷🇺[openproxylist.com] vless-RU
-trojan://Qzy7tgpRhu@37.18.14.33:443?security=tls&sni=m.vk.com&allowInsecure=true#🇷🇺[openproxylist.com] trojan-RU
-vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?encryption=none&security=tls&sni=www.ok.ru&fp=chrome&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&sid=fdc8125ea6f61323&packetEncoding=xudp#🇷🇺[openproxylist.com] vless-RU
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#🇷🇺[openproxylist.com] ss-RU
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIV05zS3k2MXFQeW9EdHJFWUV0WnVr@5.129.214.186:6403#🇳🇱[openproxylist.com] ss-NL
 vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yahoo.com&fp=chrome&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&packetEncoding=xudp#🇱🇻[openproxylist.com] vless-LV
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yahoo.com&fp=chrome&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b&packetEncoding=xudp#🇮🇹[openproxylist.com] vless-IT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#🇷🇺[openproxylist.com] ss-RU
+vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:443?encryption=none&security=tls&sni=cloudflare.com&fp=chrome&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&serviceName=xyz&packetEncoding=xudp#🇷🇺[openproxylist.com] vless-RU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIV05zS3k2MXFQeW9EdHJFWUV0WnVr@5.129.214.186:6403#🇳🇱[openproxylist.com] ss-NL
+vless://224629c2-342b-4e54-bb75-b56cb7dabf30@zorox-net.senu-zer.online:443?encryption=none&security=tls&sni=zorox-net.senu-zer.online&allowInsecure=true&packetEncoding=xudp#🇺🇸[openproxylist.com] vless-US
+vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?encryption=none&packetEncoding=xudp#🇮🇳[openproxylist.com] vless-IN
